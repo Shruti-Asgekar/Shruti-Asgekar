@@ -9,7 +9,7 @@
 
 - 🎓 I’m a **3rd year engineering student** specializing in **Data Science Engineering**
 - 🔭 I’m currently working on projects using **ReactJS** and **NodeJS**
-- 🌱 I’m currently learning **Kotlin**, **ReactJS**, and **NodeJS**
+- 🌱 I’m currently learning  **ReactJS**, and **NodeJS**
 - 💬 Ask me about **Java** and **C++**
 - 📫 How to reach me: **shrutiasgekar1@gmail.com**
 - ⚡ Fun fact: I enjoy understanding low-level system behavior through C and C++!
@@ -19,7 +19,7 @@
 ### 🧰 Technologies & Tools I Use
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,js,react,nodejs,kotlin,vscode,github,git" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,js,react,nodejs" />
 </p>
 
 ---
