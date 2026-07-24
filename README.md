@@ -7,7 +7,7 @@
 
 ---
 
-- 🎓 I’m a **3rd year engineering student** specializing in **Data Science Engineering**
+- 🎓 I’m a **Final year engineering student** specializing in **Data Science Engineering**
 - 🔭 I’m currently working on projects using **ReactJS** and **NodeJS**
 - 🌱 I’m currently learning  **ReactJS**, and **NodeJS**
 - 💬 Ask me about **Java** and **C++**
